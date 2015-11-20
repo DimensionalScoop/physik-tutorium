@@ -1,4 +1,4 @@
 # Themenwünsche
 
-- [ ] Newton-, Stokes-Reibung
+- [x] Newton-, Stokes-Reibung
 - [ ] Integrationskonstanten
